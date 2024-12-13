@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.nav-link.active {
+    font-weight: bold;
+    color: #28a745;
+}
+.card {
+    border-radius: 12px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+.form-control, .form-select {
+    border-radius: 8px;
+}
+.btn-success {
+    background-color: #28a745;
+    border: none;
+}
